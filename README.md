@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Dashboard Banner" width="100%">
+
 **Zara Consumer Sentiment Dashboard**
 
 **Objective**  
