@@ -1,0 +1,501 @@
+product_name,review,rating,polarity,sentiment
+TUXEDO JACKET,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+SLIM FIT SUIT JACKET,Doesn't look like the pictures.,2,0.0,Neutral
+WOOL BLEND COAT,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+BASIC PUFFER JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+SLIM FIT SUIT JACKET,Looks even better in person. Great purchase!,4,0.75,Positive
+DENIM JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+WOOL BLEND COAT,"Does the job, nothing more.",3,0.5,Positive
+DENIM JACKET,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+TUXEDO JACKET,Looks even better in person. Great purchase!,5,0.75,Positive
+WOOL BLEND COAT,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+BASIC PUFFER JACKET,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+STRETCH SUIT JACKET,Absolutely love this jacket. It's warm and stylish!,5,0.5750000000000001,Positive
+TUXEDO JACKET,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+TRENCH COAT,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+TRENCH COAT,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+TUXEDO JACKET,Good but not extraordinary.,3,0.26666666666666666,Positive
+TRENCH COAT,High-end quality at an affordable price.,4,0.0,Neutral
+WOOL BLEND COAT,Very flattering fit. Will buy again!,4,0.35,Positive
+TUXEDO JACKET,Returned it immediately. Awful fit.,2,-0.3,Negative
+DOUBLE FACED JACKET,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+SLIM FIT SUIT JACKET,High-end quality at an affordable price.,5,0.0,Neutral
+STRETCH SUIT JACKET,High-end quality at an affordable price.,4,0.0,Neutral
+DENIM JACKET,This exceeded my expectations. Beautiful fit and feel!,4,0.675,Positive
+TUXEDO JACKET,This exceeded my expectations. Beautiful fit and feel!,5,0.675,Positive
+TRENCH COAT,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+SLIM FIT SUIT JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+WOOL BLEND COAT,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+TUXEDO JACKET,High-end quality at an affordable price.,5,0.0,Neutral
+TRENCH COAT,Too bulky and not flattering on me.,2,0.0,Neutral
+SLIM FIT SUIT JACKET,Good but not extraordinary.,3,0.26666666666666666,Positive
+TRENCH COAT,Terrible smell and poor stitching. I returned it.,2,-0.7,Negative
+DENIM JACKET,Returned it immediately. Awful fit.,1,-0.3,Negative
+TUXEDO JACKET,Looks even better in person. Great purchase!,5,0.75,Positive
+BASIC PUFFER JACKET,Doesn't look like the pictures.,2,0.0,Neutral
+STRETCH SUIT JACKET,Doesn't look like the pictures.,2,0.0,Neutral
+DENIM JACKET,Doesn't look like the pictures.,2,0.0,Neutral
+DENIM JACKET,High-end quality at an affordable price.,5,0.0,Neutral
+WOOL BLEND COAT,High-end quality at an affordable price.,4,0.0,Neutral
+TRENCH COAT,Looks even better in person. Great purchase!,5,0.75,Positive
+DENIM JACKET,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+BASIC PUFFER JACKET,Good but not extraordinary.,3,0.26666666666666666,Positive
+TRENCH COAT,Good but not extraordinary.,3,0.26666666666666666,Positive
+WOOL BLEND COAT,Looks even better in person. Great purchase!,4,0.75,Positive
+BLAZER WITH BELT,"Does the job, nothing more.",3,0.5,Positive
+STRETCH SUIT JACKET,Too bulky and not flattering on me.,1,0.0,Neutral
+TUXEDO JACKET,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+STRETCH SUIT JACKET,"Does the job, nothing more.",3,0.5,Positive
+TUXEDO JACKET,Standard product. Works fine.,3,0.20833333333333334,Positive
+DENIM JACKET,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+BLAZER WITH BELT,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+STRETCH SUIT JACKET,Low quality fabric. Disappointed.,1,-0.375,Negative
+SLIM FIT SUIT JACKET,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+BASIC PUFFER JACKET,Neutral feeling about it. Just okay.,3,0.5,Positive
+PADDED BOMBER,Low quality fabric. Disappointed.,1,-0.375,Negative
+DENIM JACKET,High-end quality at an affordable price.,5,0.0,Neutral
+PADDED BOMBER,Good but not extraordinary.,3,0.26666666666666666,Positive
+STRETCH SUIT JACKET,The product arrived damaged. Very upset.,1,0.2,Positive
+SLIM FIT SUIT JACKET,This exceeded my expectations. Beautiful fit and feel!,5,0.675,Positive
+STRETCH SUIT JACKET,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+DOUBLE FACED JACKET,Very flattering fit. Will buy again!,4,0.35,Positive
+TUXEDO JACKET,Impressed by the fabric and design. Zara nailed it!,5,1.0,Positive
+PADDED BOMBER,Very flattering fit. Will buy again!,4,0.35,Positive
+TRENCH COAT,Looks even better in person. Great purchase!,5,0.75,Positive
+STRETCH SUIT JACKET,Perfect for formal events. Looks sharp and classy.,5,0.325,Positive
+SLIM FIT SUIT JACKET,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+WOOL BLEND COAT,Perfect for formal events. Looks sharp and classy.,4,0.325,Positive
+DOUBLE FACED JACKET,Perfect for formal events. Looks sharp and classy.,4,0.325,Positive
+STRETCH SUIT JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+DENIM JACKET,Terrible smell and poor stitching. I returned it.,2,-0.7,Negative
+BASIC PUFFER JACKET,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+BLAZER WITH BELT,Perfect for formal events. Looks sharp and classy.,5,0.325,Positive
+DOUBLE FACED JACKET,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+BLAZER WITH BELT,The product arrived damaged. Very upset.,1,0.2,Positive
+TUXEDO JACKET,Doesn't look like the pictures.,1,0.0,Neutral
+BLAZER WITH BELT,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+BLAZER WITH BELT,This exceeded my expectations. Beautiful fit and feel!,5,0.675,Positive
+TUXEDO JACKET,Very flattering fit. Will buy again!,5,0.35,Positive
+PADDED BOMBER,Returned it immediately. Awful fit.,2,-0.3,Negative
+DOUBLE FACED JACKET,"Does the job, nothing more.",3,0.5,Positive
+BLAZER WITH BELT,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+SLIM FIT SUIT JACKET,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+DENIM JACKET,Standard product. Works fine.,3,0.20833333333333334,Positive
+WOOL BLEND COAT,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+BASIC PUFFER JACKET,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+TUXEDO JACKET,Looks even better in person. Great purchase!,5,0.75,Positive
+TUXEDO JACKET,"Color was different from the photo, but still acceptable.",3,0.0,Neutral
+SLIM FIT SUIT JACKET,"Does the job, nothing more.",3,0.5,Positive
+DENIM JACKET,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+BLAZER WITH BELT,High-end quality at an affordable price.,4,0.0,Neutral
+TRENCH COAT,Perfect for formal events. Looks sharp and classy.,4,0.325,Positive
+STRETCH SUIT JACKET,Looks even better in person. Great purchase!,5,0.75,Positive
+TRENCH COAT,Returned it immediately. Awful fit.,2,-0.3,Negative
+STRETCH SUIT JACKET,Perfect for formal events. Looks sharp and classy.,5,0.325,Positive
+SLIM FIT SUIT JACKET,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+WOOL BLEND COAT,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+BLAZER WITH BELT,Absolutely love this jacket. It's warm and stylish!,4,0.5750000000000001,Positive
+TRENCH COAT,Doesn't look like the pictures.,2,0.0,Neutral
+STRETCH SUIT JACKET,Terrible smell and poor stitching. I returned it.,2,-0.7,Negative
+TUXEDO JACKET,Neutral feeling about it. Just okay.,3,0.5,Positive
+SLIM FIT SUIT JACKET,Moderately satisfied.,3,0.5,Positive
+TUXEDO JACKET,The product arrived damaged. Very upset.,1,0.2,Positive
+DOUBLE FACED JACKET,Absolutely love this jacket. It's warm and stylish!,4,0.5750000000000001,Positive
+BLAZER WITH BELT,Too bulky and not flattering on me.,2,0.0,Neutral
+PADDED BOMBER,Good but not extraordinary.,3,0.26666666666666666,Positive
+SLIM FIT SUIT JACKET,Too bulky and not flattering on me.,1,0.0,Neutral
+PADDED BOMBER,Perfect for formal events. Looks sharp and classy.,5,0.325,Positive
+BASIC PUFFER JACKET,So chic and fashionable. Highly recommended!,4,0.2,Positive
+BLAZER WITH BELT,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+TUXEDO JACKET,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+PADDED BOMBER,Neutral feeling about it. Just okay.,3,0.5,Positive
+DENIM JACKET,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+SLIM FIT SUIT JACKET,Looks even better in person. Great purchase!,5,0.75,Positive
+DOUBLE FACED JACKET,So chic and fashionable. Highly recommended!,5,0.2,Positive
+SLIM FIT SUIT JACKET,This exceeded my expectations. Beautiful fit and feel!,4,0.675,Positive
+PADDED BOMBER,Not worth the money. Poor quality.,1,-0.275,Negative
+PADDED BOMBER,So chic and fashionable. Highly recommended!,5,0.2,Positive
+TRENCH COAT,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+DOUBLE FACED JACKET,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+SLIM FIT SUIT JACKET,Low quality fabric. Disappointed.,1,-0.375,Negative
+BASIC PUFFER JACKET,Very flattering fit. Will buy again!,5,0.35,Positive
+BASIC PUFFER JACKET,Very flattering fit. Will buy again!,5,0.35,Positive
+BLAZER WITH BELT,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+DENIM JACKET,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+DOUBLE FACED JACKET,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+BASIC PUFFER JACKET,"Does the job, nothing more.",3,0.5,Positive
+SLIM FIT SUIT JACKET,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+TUXEDO JACKET,Moderately satisfied.,3,0.5,Positive
+DOUBLE FACED JACKET,The product arrived damaged. Very upset.,1,0.2,Positive
+BLAZER WITH BELT,Too bulky and not flattering on me.,1,0.0,Neutral
+PADDED BOMBER,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+TRENCH COAT,Returned it immediately. Awful fit.,1,-0.3,Negative
+SLIM FIT SUIT JACKET,So chic and fashionable. Highly recommended!,4,0.2,Positive
+BLAZER WITH BELT,Impressed by the fabric and design. Zara nailed it!,5,1.0,Positive
+SLIM FIT SUIT JACKET,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+SLIM FIT SUIT JACKET,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+STRETCH SUIT JACKET,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+BASIC PUFFER JACKET,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+SLIM FIT SUIT JACKET,Perfect for formal events. Looks sharp and classy.,4,0.325,Positive
+SLIM FIT SUIT JACKET,"Color was different from the photo, but still acceptable.",3,0.0,Neutral
+DENIM JACKET,I regret this purchase completely.,1,0.1,Neutral
+DOUBLE FACED JACKET,Perfect for formal events. Looks sharp and classy.,4,0.325,Positive
+BASIC PUFFER JACKET,Neutral feeling about it. Just okay.,3,0.5,Positive
+DOUBLE FACED JACKET,Impressed by the fabric and design. Zara nailed it!,5,1.0,Positive
+DENIM JACKET,Faded after one wash. Waste of money.,1,-0.2,Negative
+BLAZER WITH BELT,Standard product. Works fine.,3,0.20833333333333334,Positive
+STRETCH SUIT JACKET,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+STRETCH SUIT JACKET,The product arrived damaged. Very upset.,2,0.2,Positive
+DOUBLE FACED JACKET,Looks even better in person. Great purchase!,4,0.75,Positive
+SLIM FIT SUIT JACKET,Terrible smell and poor stitching. I returned it.,2,-0.7,Negative
+TUXEDO JACKET,Material feels cheap and it wrinkles easily. Not happy.,2,0.0,Neutral
+STRETCH SUIT JACKET,Low quality fabric. Disappointed.,1,-0.375,Negative
+BASIC PUFFER JACKET,Looks even better in person. Great purchase!,4,0.75,Positive
+DENIM JACKET,Neutral feeling about it. Just okay.,3,0.5,Positive
+SLIM FIT SUIT JACKET,Low quality fabric. Disappointed.,2,-0.375,Negative
+TRENCH COAT,So chic and fashionable. Highly recommended!,5,0.2,Positive
+TRENCH COAT,Perfect for formal events. Looks sharp and classy.,5,0.325,Positive
+STRETCH SUIT JACKET,Material feels cheap and it wrinkles easily. Not happy.,1,0.0,Neutral
+SLIM FIT SUIT JACKET,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+DOUBLE FACED JACKET,Moderately satisfied.,3,0.5,Positive
+DOUBLE FACED JACKET,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+BASIC PUFFER JACKET,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+DOUBLE FACED JACKET,High-end quality at an affordable price.,4,0.0,Neutral
+TRENCH COAT,Very flattering fit. Will buy again!,5,0.35,Positive
+PADDED BOMBER,Looks even better in person. Great purchase!,5,0.75,Positive
+TRENCH COAT,Terrible smell and poor stitching. I returned it.,2,-0.7,Negative
+SLIM FIT SUIT JACKET,High-end quality at an affordable price.,5,0.0,Neutral
+BLAZER WITH BELT,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+BLAZER WITH BELT,Standard product. Works fine.,3,0.20833333333333334,Positive
+DOUBLE FACED JACKET,So chic and fashionable. Highly recommended!,4,0.2,Positive
+SLIM FIT SUIT JACKET,Material feels cheap and it wrinkles easily. Not happy.,1,0.0,Neutral
+TUXEDO JACKET,"Color was different from the photo, but still acceptable.",3,0.0,Neutral
+WOOL BLEND COAT,Doesn't look like the pictures.,2,0.0,Neutral
+DOUBLE FACED JACKET,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+DENIM JACKET,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+BASIC PUFFER JACKET,Absolutely love this jacket. It's warm and stylish!,4,0.5750000000000001,Positive
+TRENCH COAT,This exceeded my expectations. Beautiful fit and feel!,4,0.675,Positive
+BASIC PUFFER JACKET,Terrible smell and poor stitching. I returned it.,1,-0.7,Negative
+WOOL BLEND COAT,High-end quality at an affordable price.,4,0.0,Neutral
+TRENCH COAT,Looks even better in person. Great purchase!,4,0.75,Positive
+BLAZER WITH BELT,Too bulky and not flattering on me.,1,0.0,Neutral
+BLAZER WITH BELT,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+BLAZER WITH BELT,Standard product. Works fine.,3,0.20833333333333334,Positive
+DENIM JACKET,Perfect for formal events. Looks sharp and classy.,5,0.325,Positive
+TRENCH COAT,Standard product. Works fine.,3,0.20833333333333334,Positive
+TRENCH COAT,"Color was different from the photo, but still acceptable.",3,0.0,Neutral
+PADDED BOMBER,Absolutely love this jacket. It's warm and stylish!,5,0.5750000000000001,Positive
+TRENCH COAT,Impressed by the fabric and design. Zara nailed it!,5,1.0,Positive
+BLAZER WITH BELT,This exceeded my expectations. Beautiful fit and feel!,4,0.675,Positive
+TUXEDO JACKET,Perfect for formal events. Looks sharp and classy.,5,0.325,Positive
+BLAZER WITH BELT,High-end quality at an affordable price.,5,0.0,Neutral
+DOUBLE FACED JACKET,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+BLAZER WITH BELT,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+BASIC PUFFER JACKET,Low quality fabric. Disappointed.,1,-0.375,Negative
+TUXEDO JACKET,Too bulky and not flattering on me.,2,0.0,Neutral
+TRENCH COAT,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+BASIC PUFFER JACKET,So chic and fashionable. Highly recommended!,4,0.2,Positive
+TUXEDO JACKET,High-end quality at an affordable price.,5,0.0,Neutral
+WOOL BLEND COAT,Not worth the money. Poor quality.,2,-0.275,Negative
+PADDED BOMBER,Returned it immediately. Awful fit.,2,-0.3,Negative
+STRETCH SUIT JACKET,High-end quality at an affordable price.,4,0.0,Neutral
+DENIM JACKET,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+WOOL BLEND COAT,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+BASIC PUFFER JACKET,I regret this purchase completely.,2,0.1,Neutral
+STRETCH SUIT JACKET,Not worth the money. Poor quality.,2,-0.275,Negative
+STRETCH SUIT JACKET,This exceeded my expectations. Beautiful fit and feel!,4,0.675,Positive
+TRENCH COAT,Very flattering fit. Will buy again!,4,0.35,Positive
+DOUBLE FACED JACKET,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+BLAZER WITH BELT,Moderately satisfied.,3,0.5,Positive
+BASIC PUFFER JACKET,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+BASIC PUFFER JACKET,Standard product. Works fine.,3,0.20833333333333334,Positive
+PADDED BOMBER,Too bulky and not flattering on me.,1,0.0,Neutral
+PADDED BOMBER,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+DENIM JACKET,Too bulky and not flattering on me.,1,0.0,Neutral
+DENIM JACKET,Moderately satisfied.,3,0.5,Positive
+DENIM JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+BLAZER WITH BELT,Looks even better in person. Great purchase!,5,0.75,Positive
+DOUBLE FACED JACKET,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+TRENCH COAT,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+WOOL BLEND COAT,Doesn't look like the pictures.,1,0.0,Neutral
+WOOL BLEND COAT,High-end quality at an affordable price.,5,0.0,Neutral
+BASIC PUFFER JACKET,"Color was different from the photo, but still acceptable.",3,0.0,Neutral
+TRENCH COAT,Absolutely love this jacket. It's warm and stylish!,4,0.5750000000000001,Positive
+STRETCH SUIT JACKET,"Does the job, nothing more.",3,0.5,Positive
+STRETCH SUIT JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+DOUBLE FACED JACKET,The product arrived damaged. Very upset.,1,0.2,Positive
+DENIM JACKET,The product arrived damaged. Very upset.,2,0.2,Positive
+TRENCH COAT,Returned it immediately. Awful fit.,2,-0.3,Negative
+BASIC PUFFER JACKET,So chic and fashionable. Highly recommended!,5,0.2,Positive
+DENIM JACKET,Perfect for formal events. Looks sharp and classy.,5,0.325,Positive
+DOUBLE FACED JACKET,Absolutely love this jacket. It's warm and stylish!,5,0.5750000000000001,Positive
+SLIM FIT SUIT JACKET,"Color was different from the photo, but still acceptable.",3,0.0,Neutral
+BLAZER WITH BELT,Not worth the money. Poor quality.,2,-0.275,Negative
+TRENCH COAT,Faded after one wash. Waste of money.,1,-0.2,Negative
+TRENCH COAT,Moderately satisfied.,3,0.5,Positive
+WOOL BLEND COAT,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+WOOL BLEND COAT,Looks even better in person. Great purchase!,5,0.75,Positive
+SLIM FIT SUIT JACKET,Too bulky and not flattering on me.,2,0.0,Neutral
+DENIM JACKET,Looks even better in person. Great purchase!,4,0.75,Positive
+BLAZER WITH BELT,High-end quality at an affordable price.,5,0.0,Neutral
+BASIC PUFFER JACKET,This exceeded my expectations. Beautiful fit and feel!,5,0.675,Positive
+SLIM FIT SUIT JACKET,"Does the job, nothing more.",3,0.5,Positive
+DENIM JACKET,Looks even better in person. Great purchase!,4,0.75,Positive
+DENIM JACKET,Terrible smell and poor stitching. I returned it.,1,-0.7,Negative
+WOOL BLEND COAT,Absolutely love this jacket. It's warm and stylish!,4,0.5750000000000001,Positive
+BLAZER WITH BELT,So chic and fashionable. Highly recommended!,5,0.2,Positive
+DENIM JACKET,Looks even better in person. Great purchase!,5,0.75,Positive
+STRETCH SUIT JACKET,Not worth the money. Poor quality.,2,-0.275,Negative
+DOUBLE FACED JACKET,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+PADDED BOMBER,This exceeded my expectations. Beautiful fit and feel!,4,0.675,Positive
+DOUBLE FACED JACKET,Looks even better in person. Great purchase!,5,0.75,Positive
+DENIM JACKET,High-end quality at an affordable price.,4,0.0,Neutral
+BASIC PUFFER JACKET,Standard product. Works fine.,3,0.20833333333333334,Positive
+SLIM FIT SUIT JACKET,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+BASIC PUFFER JACKET,Absolutely love this jacket. It's warm and stylish!,4,0.5750000000000001,Positive
+TRENCH COAT,Moderately satisfied.,3,0.5,Positive
+PADDED BOMBER,Impressed by the fabric and design. Zara nailed it!,5,1.0,Positive
+TRENCH COAT,High-end quality at an affordable price.,4,0.0,Neutral
+BASIC PUFFER JACKET,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+DOUBLE FACED JACKET,Neutral feeling about it. Just okay.,3,0.5,Positive
+WOOL BLEND COAT,Terrible smell and poor stitching. I returned it.,1,-0.7,Negative
+STRETCH SUIT JACKET,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+DOUBLE FACED JACKET,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+DOUBLE FACED JACKET,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+PADDED BOMBER,Absolutely love this jacket. It's warm and stylish!,5,0.5750000000000001,Positive
+BLAZER WITH BELT,This exceeded my expectations. Beautiful fit and feel!,4,0.675,Positive
+BASIC PUFFER JACKET,Doesn't look like the pictures.,1,0.0,Neutral
+SLIM FIT SUIT JACKET,Neutral feeling about it. Just okay.,3,0.5,Positive
+PADDED BOMBER,Low quality fabric. Disappointed.,2,-0.375,Negative
+TUXEDO JACKET,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+SLIM FIT SUIT JACKET,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+DENIM JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+BLAZER WITH BELT,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+WOOL BLEND COAT,Very flattering fit. Will buy again!,4,0.35,Positive
+DOUBLE FACED JACKET,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+TRENCH COAT,Good but not extraordinary.,3,0.26666666666666666,Positive
+BASIC PUFFER JACKET,Very flattering fit. Will buy again!,5,0.35,Positive
+STRETCH SUIT JACKET,Returned it immediately. Awful fit.,1,-0.3,Negative
+DENIM JACKET,Terrible smell and poor stitching. I returned it.,1,-0.7,Negative
+DENIM JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+TUXEDO JACKET,Doesn't look like the pictures.,2,0.0,Neutral
+SLIM FIT SUIT JACKET,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+WOOL BLEND COAT,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+STRETCH SUIT JACKET,Faded after one wash. Waste of money.,2,-0.2,Negative
+STRETCH SUIT JACKET,Terrible smell and poor stitching. I returned it.,1,-0.7,Negative
+WOOL BLEND COAT,Looks even better in person. Great purchase!,5,0.75,Positive
+BASIC PUFFER JACKET,Faded after one wash. Waste of money.,2,-0.2,Negative
+WOOL BLEND COAT,So chic and fashionable. Highly recommended!,5,0.2,Positive
+TRENCH COAT,Moderately satisfied.,3,0.5,Positive
+TRENCH COAT,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+WOOL BLEND COAT,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+PADDED BOMBER,Terrible smell and poor stitching. I returned it.,2,-0.7,Negative
+PADDED BOMBER,Good but not extraordinary.,3,0.26666666666666666,Positive
+PADDED BOMBER,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+TUXEDO JACKET,Standard product. Works fine.,3,0.20833333333333334,Positive
+WOOL BLEND COAT,Good but not extraordinary.,3,0.26666666666666666,Positive
+SLIM FIT SUIT JACKET,Doesn't look like the pictures.,2,0.0,Neutral
+PADDED BOMBER,Terrible smell and poor stitching. I returned it.,2,-0.7,Negative
+SLIM FIT SUIT JACKET,Neutral feeling about it. Just okay.,3,0.5,Positive
+STRETCH SUIT JACKET,Impressed by the fabric and design. Zara nailed it!,5,1.0,Positive
+STRETCH SUIT JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+BLAZER WITH BELT,Moderately satisfied.,3,0.5,Positive
+PADDED BOMBER,Material feels cheap and it wrinkles easily. Not happy.,1,0.0,Neutral
+WOOL BLEND COAT,Too bulky and not flattering on me.,1,0.0,Neutral
+DENIM JACKET,Absolutely love this jacket. It's warm and stylish!,4,0.5750000000000001,Positive
+TUXEDO JACKET,High-end quality at an affordable price.,4,0.0,Neutral
+PADDED BOMBER,Standard product. Works fine.,3,0.20833333333333334,Positive
+WOOL BLEND COAT,So chic and fashionable. Highly recommended!,5,0.2,Positive
+WOOL BLEND COAT,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+WOOL BLEND COAT,I regret this purchase completely.,1,0.1,Neutral
+DOUBLE FACED JACKET,Perfect for formal events. Looks sharp and classy.,4,0.325,Positive
+BLAZER WITH BELT,Standard product. Works fine.,3,0.20833333333333334,Positive
+WOOL BLEND COAT,So chic and fashionable. Highly recommended!,4,0.2,Positive
+TUXEDO JACKET,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+BASIC PUFFER JACKET,Impressed by the fabric and design. Zara nailed it!,5,1.0,Positive
+DENIM JACKET,Material feels cheap and it wrinkles easily. Not happy.,1,0.0,Neutral
+TUXEDO JACKET,Returned it immediately. Awful fit.,2,-0.3,Negative
+DOUBLE FACED JACKET,Absolutely love this jacket. It's warm and stylish!,5,0.5750000000000001,Positive
+TUXEDO JACKET,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+WOOL BLEND COAT,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+BLAZER WITH BELT,I regret this purchase completely.,1,0.1,Neutral
+SLIM FIT SUIT JACKET,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+BASIC PUFFER JACKET,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+PADDED BOMBER,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+BASIC PUFFER JACKET,Looks even better in person. Great purchase!,4,0.75,Positive
+BLAZER WITH BELT,So chic and fashionable. Highly recommended!,4,0.2,Positive
+PADDED BOMBER,This exceeded my expectations. Beautiful fit and feel!,5,0.675,Positive
+SLIM FIT SUIT JACKET,The product arrived damaged. Very upset.,1,0.2,Positive
+DOUBLE FACED JACKET,Perfect for formal events. Looks sharp and classy.,5,0.325,Positive
+TUXEDO JACKET,Moderately satisfied.,3,0.5,Positive
+STRETCH SUIT JACKET,Neutral feeling about it. Just okay.,3,0.5,Positive
+STRETCH SUIT JACKET,Material feels cheap and it wrinkles easily. Not happy.,2,0.0,Neutral
+TUXEDO JACKET,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+WOOL BLEND COAT,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+WOOL BLEND COAT,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+STRETCH SUIT JACKET,Absolutely love this jacket. It's warm and stylish!,5,0.5750000000000001,Positive
+TRENCH COAT,Perfect for formal events. Looks sharp and classy.,4,0.325,Positive
+TUXEDO JACKET,Absolutely love this jacket. It's warm and stylish!,5,0.5750000000000001,Positive
+STRETCH SUIT JACKET,I regret this purchase completely.,2,0.1,Neutral
+DENIM JACKET,Faded after one wash. Waste of money.,2,-0.2,Negative
+DENIM JACKET,High-end quality at an affordable price.,5,0.0,Neutral
+BLAZER WITH BELT,"Color was different from the photo, but still acceptable.",3,0.0,Neutral
+DOUBLE FACED JACKET,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+WOOL BLEND COAT,Good but not extraordinary.,3,0.26666666666666666,Positive
+SLIM FIT SUIT JACKET,This exceeded my expectations. Beautiful fit and feel!,5,0.675,Positive
+TRENCH COAT,High-end quality at an affordable price.,5,0.0,Neutral
+BASIC PUFFER JACKET,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+DOUBLE FACED JACKET,Not worth the money. Poor quality.,1,-0.275,Negative
+PADDED BOMBER,Absolutely love this jacket. It's warm and stylish!,4,0.5750000000000001,Positive
+TRENCH COAT,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+DOUBLE FACED JACKET,Very flattering fit. Will buy again!,4,0.35,Positive
+TRENCH COAT,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+DENIM JACKET,Very flattering fit. Will buy again!,4,0.35,Positive
+PADDED BOMBER,Doesn't look like the pictures.,1,0.0,Neutral
+DENIM JACKET,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+DENIM JACKET,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+SLIM FIT SUIT JACKET,Neutral feeling about it. Just okay.,3,0.5,Positive
+STRETCH SUIT JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+SLIM FIT SUIT JACKET,Too bulky and not flattering on me.,2,0.0,Neutral
+STRETCH SUIT JACKET,Perfect for formal events. Looks sharp and classy.,5,0.325,Positive
+DENIM JACKET,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+BASIC PUFFER JACKET,I regret this purchase completely.,1,0.1,Neutral
+DENIM JACKET,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+PADDED BOMBER,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+PADDED BOMBER,Perfect for formal events. Looks sharp and classy.,4,0.325,Positive
+STRETCH SUIT JACKET,Looks even better in person. Great purchase!,5,0.75,Positive
+WOOL BLEND COAT,Absolutely love this jacket. It's warm and stylish!,4,0.5750000000000001,Positive
+BASIC PUFFER JACKET,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+BASIC PUFFER JACKET,Perfect for formal events. Looks sharp and classy.,4,0.325,Positive
+BLAZER WITH BELT,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+BLAZER WITH BELT,Very flattering fit. Will buy again!,5,0.35,Positive
+DENIM JACKET,Returned it immediately. Awful fit.,2,-0.3,Negative
+WOOL BLEND COAT,Moderately satisfied.,3,0.5,Positive
+PADDED BOMBER,Perfect for formal events. Looks sharp and classy.,4,0.325,Positive
+TRENCH COAT,"Does the job, nothing more.",3,0.5,Positive
+DENIM JACKET,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+DENIM JACKET,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+TRENCH COAT,Material feels cheap and it wrinkles easily. Not happy.,1,0.0,Neutral
+BLAZER WITH BELT,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+BASIC PUFFER JACKET,High-end quality at an affordable price.,4,0.0,Neutral
+BLAZER WITH BELT,The product arrived damaged. Very upset.,2,0.2,Positive
+BASIC PUFFER JACKET,Absolutely love this jacket. It's warm and stylish!,4,0.5750000000000001,Positive
+DOUBLE FACED JACKET,So chic and fashionable. Highly recommended!,4,0.2,Positive
+TUXEDO JACKET,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+DOUBLE FACED JACKET,"Color was different from the photo, but still acceptable.",3,0.0,Neutral
+TUXEDO JACKET,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+SLIM FIT SUIT JACKET,"Does the job, nothing more.",3,0.5,Positive
+SLIM FIT SUIT JACKET,So chic and fashionable. Highly recommended!,4,0.2,Positive
+TRENCH COAT,Faded after one wash. Waste of money.,2,-0.2,Negative
+PADDED BOMBER,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+BASIC PUFFER JACKET,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+DENIM JACKET,High-end quality at an affordable price.,5,0.0,Neutral
+DENIM JACKET,I regret this purchase completely.,2,0.1,Neutral
+STRETCH SUIT JACKET,Perfect for formal events. Looks sharp and classy.,4,0.325,Positive
+TRENCH COAT,Perfect for formal events. Looks sharp and classy.,4,0.325,Positive
+BLAZER WITH BELT,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+PADDED BOMBER,The product arrived damaged. Very upset.,1,0.2,Positive
+BLAZER WITH BELT,Looks even better in person. Great purchase!,4,0.75,Positive
+DOUBLE FACED JACKET,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+TUXEDO JACKET,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+TRENCH COAT,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+DOUBLE FACED JACKET,Impressed by the fabric and design. Zara nailed it!,5,1.0,Positive
+BLAZER WITH BELT,High-end quality at an affordable price.,4,0.0,Neutral
+TUXEDO JACKET,Very flattering fit. Will buy again!,5,0.35,Positive
+SLIM FIT SUIT JACKET,"Does the job, nothing more.",3,0.5,Positive
+BASIC PUFFER JACKET,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+DOUBLE FACED JACKET,Very flattering fit. Will buy again!,4,0.35,Positive
+WOOL BLEND COAT,Terrible smell and poor stitching. I returned it.,2,-0.7,Negative
+BLAZER WITH BELT,Neutral feeling about it. Just okay.,3,0.5,Positive
+PADDED BOMBER,Very flattering fit. Will buy again!,4,0.35,Positive
+PADDED BOMBER,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+TRENCH COAT,Moderately satisfied.,3,0.5,Positive
+TRENCH COAT,Impressed by the fabric and design. Zara nailed it!,5,1.0,Positive
+BLAZER WITH BELT,"Color was different from the photo, but still acceptable.",3,0.0,Neutral
+TRENCH COAT,Doesn't look like the pictures.,1,0.0,Neutral
+BASIC PUFFER JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+DOUBLE FACED JACKET,Very flattering fit. Will buy again!,5,0.35,Positive
+TRENCH COAT,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+PADDED BOMBER,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+PADDED BOMBER,So chic and fashionable. Highly recommended!,4,0.2,Positive
+STRETCH SUIT JACKET,Perfect for formal events. Looks sharp and classy.,5,0.325,Positive
+BLAZER WITH BELT,Very flattering fit. Will buy again!,4,0.35,Positive
+DOUBLE FACED JACKET,Moderately satisfied.,3,0.5,Positive
+STRETCH SUIT JACKET,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+SLIM FIT SUIT JACKET,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+DENIM JACKET,High-end quality at an affordable price.,4,0.0,Neutral
+WOOL BLEND COAT,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+BLAZER WITH BELT,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+BLAZER WITH BELT,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+TRENCH COAT,High-end quality at an affordable price.,4,0.0,Neutral
+STRETCH SUIT JACKET,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+TUXEDO JACKET,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+SLIM FIT SUIT JACKET,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+TRENCH COAT,Too bulky and not flattering on me.,1,0.0,Neutral
+PADDED BOMBER,High-end quality at an affordable price.,5,0.0,Neutral
+BLAZER WITH BELT,Impressed by the fabric and design. Zara nailed it!,5,1.0,Positive
+DENIM JACKET,Standard product. Works fine.,3,0.20833333333333334,Positive
+WOOL BLEND COAT,Absolutely love this jacket. It's warm and stylish!,4,0.5750000000000001,Positive
+DOUBLE FACED JACKET,"Color was different from the photo, but still acceptable.",3,0.0,Neutral
+TUXEDO JACKET,This exceeded my expectations. Beautiful fit and feel!,5,0.675,Positive
+TUXEDO JACKET,Material feels cheap and it wrinkles easily. Not happy.,1,0.0,Neutral
+BASIC PUFFER JACKET,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+SLIM FIT SUIT JACKET,Doesn't look like the pictures.,1,0.0,Neutral
+BASIC PUFFER JACKET,Faded after one wash. Waste of money.,2,-0.2,Negative
+PADDED BOMBER,This exceeded my expectations. Beautiful fit and feel!,5,0.675,Positive
+STRETCH SUIT JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+SLIM FIT SUIT JACKET,Absolutely love this jacket. It's warm and stylish!,5,0.5750000000000001,Positive
+DENIM JACKET,High-end quality at an affordable price.,4,0.0,Neutral
+TUXEDO JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+WOOL BLEND COAT,Absolutely love this jacket. It's warm and stylish!,5,0.5750000000000001,Positive
+BASIC PUFFER JACKET,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+TUXEDO JACKET,Doesn't look like the pictures.,1,0.0,Neutral
+DENIM JACKET,Average material. Expected more from Zara.,3,0.08333333333333333,Neutral
+WOOL BLEND COAT,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+PADDED BOMBER,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+TRENCH COAT,Low quality fabric. Disappointed.,1,-0.375,Negative
+DENIM JACKET,Looks even better in person. Great purchase!,5,0.75,Positive
+BASIC PUFFER JACKET,"Does the job, nothing more.",3,0.5,Positive
+BLAZER WITH BELT,Absolutely love this jacket. It's warm and stylish!,4,0.5750000000000001,Positive
+TUXEDO JACKET,Very flattering fit. Will buy again!,5,0.35,Positive
+DENIM JACKET,Faded after one wash. Waste of money.,2,-0.2,Negative
+DOUBLE FACED JACKET,Impressed by the fabric and design. Zara nailed it!,4,1.0,Positive
+TUXEDO JACKET,Looks even better in person. Great purchase!,5,0.75,Positive
+STRETCH SUIT JACKET,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+TUXEDO JACKET,"Does the job, nothing more.",3,0.5,Positive
+TUXEDO JACKET,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+DENIM JACKET,Faded after one wash. Waste of money.,1,-0.2,Negative
+BASIC PUFFER JACKET,Looks nice but the fit is a bit off for my size.,3,0.5,Positive
+BASIC PUFFER JACKET,The product arrived damaged. Very upset.,2,0.2,Positive
+BASIC PUFFER JACKET,Perfect for formal events. Looks sharp and classy.,5,0.325,Positive
+WOOL BLEND COAT,Neutral feeling about it. Just okay.,3,0.5,Positive
+TUXEDO JACKET,Looks even better in person. Great purchase!,5,0.75,Positive
+SLIM FIT SUIT JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+DENIM JACKET,Absolutely love this jacket. It's warm and stylish!,5,0.5750000000000001,Positive
+BASIC PUFFER JACKET,Terrible smell and poor stitching. I returned it.,2,-0.7,Negative
+TRENCH COAT,Elegant and fits perfectly. I got compliments!,4,0.75,Positive
+BLAZER WITH BELT,Terrible smell and poor stitching. I returned it.,2,-0.7,Negative
+DOUBLE FACED JACKET,Great quality for the price. Very comfortable to wear.,5,0.66,Positive
+DOUBLE FACED JACKET,Good but not extraordinary.,3,0.26666666666666666,Positive
+STRETCH SUIT JACKET,Standard product. Works fine.,3,0.20833333333333334,Positive
+BASIC PUFFER JACKET,Standard product. Works fine.,3,0.20833333333333334,Positive
+TUXEDO JACKET,Absolutely love this jacket. It's warm and stylish!,4,0.5750000000000001,Positive
+TUXEDO JACKET,Neutral feeling about it. Just okay.,3,0.5,Positive
+PADDED BOMBER,Nothing special but decent for the price.,3,0.2619047619047619,Positive
+STRETCH SUIT JACKET,Great quality for the price. Very comfortable to wear.,4,0.66,Positive
+PADDED BOMBER,Looks even better in person. Great purchase!,5,0.75,Positive
+SLIM FIT SUIT JACKET,"Does the job, nothing more.",3,0.5,Positive
+STRETCH SUIT JACKET,"Color was different from the photo, but still acceptable.",3,0.0,Neutral
+WOOL BLEND COAT,High-end quality at an affordable price.,5,0.0,Neutral
+DENIM JACKET,So chic and fashionable. Highly recommended!,5,0.2,Positive
+STRETCH SUIT JACKET,Perfect for formal events. Looks sharp and classy.,5,0.325,Positive
+SLIM FIT SUIT JACKET,Faded after one wash. Waste of money.,2,-0.2,Negative
+TRENCH COAT,This exceeded my expectations. Beautiful fit and feel!,4,0.675,Positive
+TUXEDO JACKET,Absolutely love this jacket. It's warm and stylish!,5,0.5750000000000001,Positive
+TUXEDO JACKET,High-end quality at an affordable price.,5,0.0,Neutral
+WOOL BLEND COAT,Neutral feeling about it. Just okay.,3,0.5,Positive
+DOUBLE FACED JACKET,"Does the job, nothing more.",3,0.5,Positive
+BASIC PUFFER JACKET,Looks even better in person. Great purchase!,4,0.75,Positive
+SLIM FIT SUIT JACKET,"It's okay. Not bad, not amazing either.",3,0.18333333333333326,Positive
+DOUBLE FACED JACKET,Elegant and fits perfectly. I got compliments!,5,0.75,Positive
+SLIM FIT SUIT JACKET,Looks even better in person. Great purchase!,4,0.75,Positive
