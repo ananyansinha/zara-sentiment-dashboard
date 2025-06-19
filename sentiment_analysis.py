@@ -20,5 +20,5 @@ df["polarity"] = df["review"].apply(lambda x: TextBlob(x).sentiment.polarity)
 df["sentiment"] = df["review"].apply(analyze_sentiment)
 
 # STEP 4: Save the updated dataset
-df.to_csv("zara_reviews_with_sentiment.csv", index=False, encoding='utf-8')
+df.to_csv("data/zara_reviews_with_sentiment.csv", index=False, encoding='utf-8')
 print("Done! File saved as 'zara_reviews_with_sentiment.csv'")
